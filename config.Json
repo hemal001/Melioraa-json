@@ -1,0 +1,69 @@
+
+
+
+{
+
+   "Parameters":
+   
+    [
+        {
+
+          "name":"ProgressCounter",
+          "value":"Progress Counter"
+        },
+
+        {
+
+            
+          "name":"RPM",
+          "value":"RPM"
+        },
+
+        {
+
+            
+            "name":"ShiftProduction",
+            "value":"Shift Production (kg)"
+          },
+          
+          {
+
+            
+            "name":"RunTime",
+            "value":"Run Time"
+          },
+          {
+
+            
+            "name":"IdleTime",
+            "value":"Idle Time"
+          },
+          {
+
+            
+            "name":"YarnConsumption",
+            "value":"Yarn Consumption"
+          },
+          {
+
+            
+            "name":"Progress",
+            "value":"Progress"
+          },
+          {
+
+            
+            "name":"ElastaneConsumptionLength",
+            "value":"E/Consumption Length"
+          }
+
+
+        
+
+
+    ]
+
+
+
+
+}
